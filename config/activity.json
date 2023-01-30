@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Majorblake",
+      "uniqueId": "eb202b80-ba8b-4783-b2e3-c2417c6525ec"
+    },
+    "time": 1675121526263,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5dDl0CNNkP"
+    }
+  }
+]
